@@ -1,5 +1,9 @@
 # pulse_yay
 hey squad!!!!!!!
+
+### Group Members
+Simon Ni
+
 ## transcript: 
 And while you guys are building, today's happening, I want you guys to put yourselves in the shoes of an individual that's building an actual AI system. for business owners. want to medium size. Makes sense? if you guys put yourself there. How many here know that the Super Bowl, a lot of the reasons why people watch the Super Bowl is because of the ads? raise your hand. The ads are a big part. For international students here, the ads are, like, about 30 to 40% of the reason why some people, like, watch the game. Make sense? And halftime. Huh? And halftime. And half action. They will be a good one. That be right. So I'm going to read you guys the actual challenge word for word. I'm gonna give you guys the exact, you know, recommended text app and how you guys should build. You guys are gonna have about 4.5 hours to build. We're going to have finalists that actually are going to demo. And yes, this is a hapathon that's going to be a winner. 
 ### So the actual challenge. 
