@@ -12,10 +12,10 @@ Your project must be publicly accessible and functional during judging. You must
 What we're gonna be looking for, the raising right now. Let give them a round of applause, John. Let's Okay. Real world data ingestion. Did the team successfully use live external data? 
 ### Number two, live deployment 
 is the product working in a real deployed environment. 
-# Number three, latency. 
+### Number three, latency. 
 How long elapsed between the TV moment the AI response is? For business impact. Right? You guys know what business is. More eyeballs, means usually more like sales. Attempt, money balls attention. It's gossip. 
 ### four? 
 Smart use of AI is AI meaningfully powering content, decisions for automation. 
-# Six, usability 
-# 7 demo quality. 
+### Six, usability 
+### 7 demo quality. 
 So the way you present matters. Right? So that will matter. Perception is reality. So if you guys have a phenomenal product, but you cannot demonstrate it and explain it clearly, it'll be it'll be taught to one. And for those of you in the room, how many how many of you, this is your 1st half on ever? Raise your hand. Hi, raise it high. be proud. One, two, three, four, five. Let's give them a round of applause. Whoo! Or the skill set is not just to build a phenomenal product. It's having the ability to communicate. and being able to demonstrate what is in your mind, what you deduce, an actual workflow, into an actual PRD, into this is what we built and this is why we built it. And this is how it makes a difference. Make sense? All right guys. Thank.
