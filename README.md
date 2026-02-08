@@ -2,7 +2,7 @@
 hey squad!!!!!!!
 
 ### Group Members
-Simon Ni
+Simon
 
 blub
 
