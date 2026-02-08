@@ -1,6 +1,11 @@
 # pulse_yay
 hey squad!!!!!!!
 
+# Idea!
+data: picture from ad, supplementary info (transcript from subtitles?)(
+we add: identify the celeb, bring up info 
+output: who is that? how do u know them? 
+
 ### 🏈 Pulse NYC SB LX Hackathon: Big Wins, Small Businesses
 Every year, the Super Bowl attracts 100+ million viewers in the U.S. alone. It’s one of the rare events where sports fans, casual viewers, and even non-sports watchers all tune in together. 
 That attention is incredibly valuable yet incredibly expensive. A single 30-second Super Bowl ad costs millions of dollars, and brands often spend even more on production, celebrities, and cross-platform campaigns. But small businesses are shut out of that moment. Yet their customers watch the same game, scroll the same feeds, and react to the same moments.
